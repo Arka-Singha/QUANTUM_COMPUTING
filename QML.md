@@ -54,3 +54,18 @@ The second image shows:
 
 (Right) The 2D projection with the quantum decision boundary drawn as a black contour line.
 
+## Future Improvements
+
+- Add real-world datasets
+- Test with other feature maps (e.g., PauliFeatureMap)
+- Variational Quantum Classifier (VQC) training
+- Prediction and Accuracy Evaluation
+- Compare against classical models (e.g., SVM, logistic regression)
+- Try deployment on actual IBM Quantum hardware
+
+
+
+👨‍💻 Author
+Arka Singha
+
+Open to feedback and collaboration, If you find this project helpful.
