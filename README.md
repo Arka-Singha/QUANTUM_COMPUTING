@@ -58,8 +58,7 @@ The implementation of Grover’s Algorithm in this project demonstrates a 3-qubi
   
 
 ## 💡Applications
-Grover’s algorithm ca
-n be extended to solve:
+Grover’s algorithm can be extended to solve:
 * Cryptographic key search (e.g., symmetric key attacks)
 * Sudoku puzzles and combinatorial optimization
 * Database lookups and pattern matching
