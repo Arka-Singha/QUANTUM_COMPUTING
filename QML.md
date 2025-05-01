@@ -43,6 +43,9 @@ This notebook walks through:
 
 📸 Visualizations: 
 
+![image](https://github.com/user-attachments/assets/fe9448fd-c1dd-46d2-a0be-ad21068a5d5b)
+![image](https://github.com/user-attachments/assets/140ae69f-5100-464a-8c57-029542885ef7)
+
 The first image shows the original circular dataset.
 
 The second image shows:
