@@ -1,5 +1,4 @@
 # Quantum Computing
-# Quantum Nimbus ⚛️
 
 <div align="center">
 
